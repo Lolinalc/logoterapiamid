@@ -238,28 +238,6 @@ function App() {
                 </a>
               </div>
             </div>
-
-            {/* Right Image Placeholder */}
-            <div className="relative">
-              <div className="relative aspect-[4/5] bg-gradient-to-br from-[#303086] to-[#6B7B8C] rounded-[2rem] overflow-hidden shadow-2xl">
-                {/* Placeholder for hero image */}
-                <div className="absolute inset-0 flex items-center justify-center text-white text-opacity-50">
-                  <div className="text-center p-8">
-                    <div className="text-6xl mb-4">🧘‍♀️</div>
-                    <p className="text-lg font-light">
-                      Coloca aquí una imagen inspiradora
-                    </p>
-                    <p className="text-sm mt-2">
-                      (Persona en meditación, reflexión o conexión espiritual)
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              {/* Decorative element */}
-              <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-[#f7b54f] rounded-full opacity-20 blur-3xl"></div>
-              <div className="absolute -top-6 -left-6 w-40 h-40 bg-[#303086] rounded-full opacity-10 blur-3xl"></div>
-            </div>
           </div>
         </div>
 
